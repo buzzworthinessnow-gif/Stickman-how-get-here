@@ -123,7 +123,21 @@ For every character, use the outfit specifications and continuity rules in [STIC
 
 From [start state], [stickman] [specific physical action] while [object responds]; end at [end state]. Camera [simple movement]. Maintain identity, period accuracy, object geometry, and scene continuity. No narration instructions.
 
+## Saved narration and thumbnail package
+
+Follow [VOICEOVER_SCRIPT_POLICY.md](VOICEOVER_SCRIPT_POLICY.md) and [THUMBNAIL_GUIDE.md](THUMBNAIL_GUIDE.md).
+
+- Episode ID / canonical voiceover script path:
+- Script version / narrator / voice settings:
+- Saved metadata path / audio take asset IDs / actual duration:
+- Alternate voice take references:
+- Thumbnail candidates (4–6) with short hook headline, visual composition, complete 16:9 prompt, asset ID or file path, and approval status:
+- Thumbnail selected for publishing (if any):
+
 ## Assembly checklist
+
+- [ ] Exact narration script saved and verified before TTS; voice metadata and audio take references retained
+- [ ] 4–6 distinct 16:9 thumbnail concepts prepared; separately generated when authorized and available
 
 - [ ] Fact ledger reviewed and critical claims sourced
 - [ ] First 20–30 seconds deliver an honest creative hook with a compelling first five seconds
