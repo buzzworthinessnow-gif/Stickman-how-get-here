@@ -68,6 +68,9 @@ Count spoken words and estimate with the selected narrator's actual rate. Budget
 
 ## Visual masters
 
+For every character, use the outfit specifications and continuity rules in [STICKMAN_WARDROBE_GUIDE.md](STICKMAN_WARDROBE_GUIDE.md). Include hat, top, outer layer, pants or shorts, footwear, and period-appropriate colors/materials in each image prompt. Keep the same outfit in connected shots.
+
+
 **Series look:** expressive clean-outline 2D stickmen; rich historically grounded 2D illustrated environments, accurate featured objects, warm cinematic lighting, restrained accent palette, tactile ink-and-paper finish.
 
 **Recurring character master(s):**
