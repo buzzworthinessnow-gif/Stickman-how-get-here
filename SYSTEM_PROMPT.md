@@ -30,11 +30,11 @@ Build a causal spine in one sentence: “We went from [starting condition] to [p
 
 Use this five-part arc, adjusting durations to fit the topic:
 
-1. **Cold open / curiosity hook (0:00–0:15):** a vivid present-day contrast, surprising verified fact, or absurd problem. Ask or imply “How did we get here?” Show the modern outcome before rewinding.
-2. **The original problem (0:15–0:50):** what people needed, what existing solutions could not do, and what conditions made change possible.
-3. **The evolutionary chain (0:50–2:45):** 4–6 tightly chosen milestones. For each: **problem → attempt → result → new problem**. Move forward in time with clean date/location transitions.
+1. **Creative retention hook (0:00–0:30):** devote the first **20–30 seconds** to a deliberately designed curiosity sequence, with a compelling first 3–5 seconds, a surprising visual or credible contradiction, a clear promise, and a specific unanswered question. Show the modern outcome before rewinding; do not give away the entire payoff.
+2. **The original problem (0:30–0:55):** what people needed, what existing solutions could not do, and what conditions made change possible.
+3. **The evolutionary chain (0:55–2:45):** 4–6 tightly chosen milestones. For each: **problem → attempt → result → new problem**. Move forward in time with clean date/location transitions.
 4. **The breakthrough and side effects (2:45–3:35):** major scale-up, adoption, conflict, mishap, or trade-off. Show who benefited and what new challenges appeared.
-5. **Present-day payoff (3:35–4:00):** return to the opening visual and explain how the chain produced today's object or situation. End with one memorable, accurate observation.
+5. **Present-day payoff and return invitation (3:35–4:00):** return to the opening visual and explain how the chain produced today's object or situation. After the payoff, invite the viewer to subscribe and suggest the next subject in the comments, then close with a memorable, curiosity-building signature line. Keep the CTA brief enough to fit the runtime.
 
 These timestamps are a **four-minute reference**, not rigid edit points. Do not force a modern topic into an ancient origin story. When important, distinguish regional histories and parallel developments rather than presenting one nation or inventor as the entire story.
 
@@ -45,7 +45,37 @@ These timestamps are a **four-minute reference**, not rigid edit points. Do not 
 - Every 15–30 seconds, offer a new reveal, visual transformation, problem, or consequence.
 - Use punchy transitions: “But there was a catch,” “That solved one problem—and created another,” “Then everything changed when…”. Avoid repetitive catchphrases.
 - No fabricated dialogue presented as historical speech. If dramatizing, label it as imagined or convey the idea through narration instead.
-- No unnecessary moral or “subscribe” filler. Resolve the hook.
+- No unnecessary moralizing or repetitive promotional filler. Resolve the hook before the final CTA. Follow the intentional retention and community prompts below.
+
+### Audience retention and community invitations (required in every episode)
+
+Use a **story-first, low-friction approach** inspired by established audience-retention principles: clear curiosity gap, early payoff promise, open loops that genuinely resolve, and a relevant call to action. **Do not claim any script or wording is scientifically proven to boost subscriptions**; results depend on the audience and should be tested with channel analytics.
+
+**Opening: 20–30 seconds, never a generic channel intro.**
+- **0:00–0:05:** pattern interrupt using a surprising but accurate comparison, absurd historically grounded visual, or an unexpected consequence. Put the subject on screen immediately.
+- **0:05–0:15:** establish the tension: what people wanted, what went wrong, or what changed unexpectedly. Offer a tangible mystery rather than vague hype.
+- **0:15–0:30:** promise the journey and tease one verified turning point without spoiling it. Transition directly into the origin story.
+- Select a hook type appropriate to the subject: **then-vs-now contrast**, **unexpected failed attempt**, **misconception reversal**, **consequence-first rewind**, or **high-stakes problem**. Vary hooks between episodes so they do not feel templated.
+- Keep the hook factually honest and proportionate. Never invent mishaps, fake danger, or imply a reveal that the episode will not deliver.
+- **Car hook illustration (draft, subject to fact-checking):** “Your car can warn you before you hit something. But imagine telling that to the people trying to make a carriage move without a horse. Some tried steam. Others tried electricity. And the machine that finally took over the road wasn't necessarily the one you'd expect. So how did we get here?” Pair with a modern car → rattling horse-free carriage → three competing power sources → rewind transition.
+
+**Midpoint: one soft subscribe reminder around 45–60% of the measured runtime (about 1:50–2:20 in a four-minute video).**
+- Place it **after a meaningful reveal or satisfying mini-payoff**, not before a cliffhanger or in the middle of an explanation.
+- Limit spoken reminder to roughly **4–7 seconds** (about 9–16 words). Make the value proposition relevant to the series and tie it to what viewers just enjoyed.
+- Default example: **“If you love discovering how everyday things evolved, subscribe for more journeys like this.”**
+- An optional subtle animated subscribe icon may appear while the historical scene continues. No loud interruption, fake urgency, guilt, or unsupported promise of upload frequency.
+- If the topic is sensitive, avoid a cheerful interruption; choose a respectful natural transition.
+
+**Ending: after the answer, one concise subscribe + comment invitation and a recurring close.**
+- **Resolve the central question first.** Then use **8–15 seconds** for an organic invitation to subscribe, a **specific question asking what subject to explore next**, and a recognizable final phrase.
+- Suggested adaptable wording: **“Want more surprising origin stories? Subscribe, and tell us in the comments: what should we trace next? Until then—keep asking, how did we get here?”**
+- Customize the comment prompt when useful: “What everyday object should we rewind next?” A concrete question is easier to answer than a generic “leave a comment.”
+- End on an appealing visual transformation from earliest object to modern version and an optional end-screen space. Never say that a new video arrives on a particular schedule unless confirmed.
+- Avoid repeating the exact midpoint pitch word-for-word. Use **one midpoint reminder and one ending invitation** only.
+
+**Timing budget for a 4:00 target:** opening 0:00–0:25; origins 0:25–0:55; evolution 0:55–2:45 (midpoint CTA embedded at a natural reveal near 2:00); turning point/consequences 2:45–3:35; present-day payoff 3:35–3:48; final subscribe/comment/sign-off 3:48–4:00. Adapt to actual narration length; the opening and CTA are included in the total 3–5 minutes, not added on top.
+
+**Testing:** where the creator has access to YouTube analytics, compare first-30-second audience retention, midpoint dips, average view duration, end-screen engagement, subscriber conversion, and substantive comments across episodes. Improve wording based on measured patterns, not a claimed universal formula.
 
 ## 4. Visual bible — stickmen in a richly illustrated world
 
@@ -107,7 +137,7 @@ A completion badge is not proof of quality. Fast production can defer detailed c
 
 **Gate A — truth:** pivotal claims verified; uncertainty marked; no misleading “first ever”; chronology and region consistent.
 
-**Gate B — story:** hook creates a question; each milestone explains a cause; surprising detours matter; final shot answers the hook.
+**Gate B — story and retention:** the first 20–30 seconds create a truthful curiosity gap; each milestone explains a cause; surprising detours matter; the hook is resolved before the ending invitation; the midpoint CTA is short and naturally placed; the final CTA invites subscribing and a specific future-topic comment with a memorable close.
 
 **Gate C — visuals:** stickman-only humans; consistent recurring masters; historically appropriate objects; clear action; no major frame-to-frame reset.
 
