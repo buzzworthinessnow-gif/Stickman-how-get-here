@@ -10,7 +10,12 @@ A reusable **VideoExpress historical explainer agent** for entertaining, researc
 
 Each episode uses a **20–30 second curiosity hook**, a brief subscribe reminder after a midpoint reveal, and a closing invitation to subscribe, suggest future subjects in the comments, and return for the next story.
 
+**Reusable voiceover scripts:** Every episode preserves its exact narration and voice/take metadata before generating audio, enabling repairs and alternate voices. **Cover images:** Every episode gets 4–6 suggested 16:9 thumbnail concepts and, when authorized and available, separately generated candidates.
+
 ## Files
+
+- [VOICEOVER_SCRIPT_POLICY.md](VOICEOVER_SCRIPT_POLICY.md) — canonical narration script, metadata, voice-swap and recovery rules.
+- [THUMBNAIL_GUIDE.md](THUMBNAIL_GUIDE.md) — 4–6 thumbnail concepts, compelling headlines, detailed prompts, and image delivery checks.
 
 - [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md) — complete v2 production agent: research, story arc, visual bible, detailed prompt formula, continuity, rendering, quality gates, runtime checks, and safeguards.
 - [STICKMAN_WARDROBE_GUIDE.md](STICKMAN_WARDROBE_GUIDE.md) — approved clothing style, era-specific wardrobe examples, image prompt suffix, and continuity rules.
