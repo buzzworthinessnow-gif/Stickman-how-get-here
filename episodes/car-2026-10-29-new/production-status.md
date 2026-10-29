@@ -1,9 +1,28 @@
-# Production checkpoint
-Project: How Did We Get Here — The Car — 2026-10-29 Long
-Audio: full 673-word Beau Whitaker script, asset 46644524; measured 226.425918 seconds, preserved unchanged at zero on lower track.
-18 upper-track clips assembled and saved, chronological order 01A–09B.
-All 22 video jobs submitted. No duplicate retries of unknown jobs.
-Original source clips: 10.041667 seconds, 1920x1080, silent. Opening visual pacing: 01A 70%, 01B 90%; narration speed unchanged. Auto Align applied to upper track.
+# Completed car episode — 29 October 2026
+
+## Finished video
+- Title: How Did We Get Here? The Car
+- VideoExpress project: How Did We Get Here — The Car — 2026-10-29 Long
+- Export name: How-did-we-get-here-The-Car-Long-2026-10-29
+- Export asset: 753945, verified in My Videos with a Download control.
+- Completed MP4 downloaded and inspected: 115779005 bytes; duration 226.440998 seconds (3:46.441); 1920x1080 H.264; AAC audio duration 226.440998 seconds.
+- Full Beau Whitaker narration preserved, asset 46644524, original audio 226.425918 seconds. 673 words; no narration trimming or speed change.
+- 22 silent animation clips assembled and saved, verified chronological order 01A,01B through 11A,11B. Auto Align applied; opening visual clips use 70% and 90% speed. Narration speed unchanged.
+- Public gallery disabled; no publishing or sharing performed.
+
+## Review scope
+Keyframes, selected paused timeline frames, chronological sequence, timeline bounds and exported metadata checked. Full playback, pronunciation and sentence-level synchronization review NOT performed. Historical mechanisms are stylized reconstructions; some generated motion/details remain approximate. One displaced comparison-detail clip was corrected before export; final order audited.
+
+## Four saved standalone cover-art candidates
+These are unselected art candidates without headline typography; no thumbnail published. VideoExpress produced 1920x1088 JPGs; trim 8 pixels of height for exact 16:9 before publishing.
+- T1 ELECTRIC CARS WERE OLD? — 301baf7a-5b94-490e-b7bf-c0bbfde2e804
+- T2 FUEL FROM A PHARMACY — 349c66f7-ae68-4002-8fdd-71b03f66120e
+- T3 NO HORSE REQUIRED — b56a098c-5c49-4d7c-9d6f-7cd89dd57c2c
+- T4 THE FACTORY CHANGED EVERYTHING — 5499058b-028c-4ddb-b155-243a7ce62e8c
+All four saved and verified together in My AI Images, downloaded in one ZIP containing four separate JPG files.
+
+## Delivery interruption
+The final MP4 and covers were downloaded and checked in the workspace. The workspace disconnected while starting the persistent attachment/save step, so ChatGPT Library saving and final attachments could not be confirmed. Do not regenerate the completed production. Recover the export from VideoExpress → My Videos, and covers from My AI Images. The project and export were already saved successfully in VideoExpress.
 
 ## Video jobs
 - 01A: 2336ad6a-21d4-4fa1-8209-5ea63349faa3
@@ -29,8 +48,8 @@ Original source clips: 10.041667 seconds, 1920x1080, silent. Opening visual paci
 - 11A: f7290062-6f30-46e1-973c-2c4de456f9ce
 - 11B: ac4df8b8-add9-48f2-955d-938cde3e5de9
 
-## Saved image masters
-Opening and ending 70deda72-450b-4b21-8461-651993e14419
+## Image masters
+Opening/ending 70deda72-450b-4b21-8461-651993e14419
 Cugnot e9340e6d-dde4-4782-a8b4-816a22a8b407
 Benz 61a35ce4-86f0-4e3d-8464-f5b09c12f5db
 Pharmacy 7d5895f1-b7b3-4c6e-b97e-42a2d67e4af4
@@ -40,5 +59,3 @@ Roadside corrected 3e56b5af-9dc7-4345-b809-d92b22418453
 Safety corrected 21316115-94a5-464f-b9c4-e80bea2e55c0
 Emissions 49a1cd80-593c-4ef6-9f59-c4a3b49aabb5
 Battery 411002a4-e3cb-49f1-aa8f-5c5711dc29c2
-
-Four standalone cover images in progress, prompts saved separately. No final export yet. Full motion/audio review not performed because routine playback is disabled by user preference. Images inspected, simplified reconstructions retain some schematic inaccuracies. No public publishing or asset deletion.
