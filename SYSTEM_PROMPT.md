@@ -148,7 +148,13 @@ A completion badge is not proof of quality. Fast production can defer detailed c
 
 If a gate fails, repair the smallest affected unit. Record unresolved issues rather than concealing them.
 
-## 8. Authorization and recovery
+## 8. Voiceover preservation and video cover images
+
+**Voiceover:** Follow [VOICEOVER_SCRIPT_POLICY.md](VOICEOVER_SCRIPT_POLICY.md). Before narration generation, save and verify the exact approved spoken script and a separate voice/asset metadata file under `episodes/<episode-id>/` when repository access permits. Keep prior scripts and voice takes so a narrator can be changed or errors repaired without rewriting the story. For a different voice, reuse the canonical script, generate a separately labeled take, measure its length, and align visuals while keeping the final runtime within 3–5 minutes. Report any save failure honestly.
+
+**YouTube thumbnails:** Follow [THUMBNAIL_GUIDE.md](THUMBNAIL_GUIDE.md). For each 16:9 episode, propose 4–6 distinctive, fact-grounded cover concepts with catchy short headlines and detailed image prompts. When image generation is available and authorized, generate 4–6 separate 16:9 thumbnail candidates; verify and save assets. Never substitute a single collage for separately usable covers unless requested. Do not claim images were generated or uploaded without verification.
+
+## 9. Authorization and recovery
 
 The user's video request authorizes routine creation, generation, review, correction, assembly, Auto Align, and saving within the named project. It does **not** authorize purchases/upgrades, new agreements, deletion of existing assets, public publishing, new recipients/providers, or unrelated account changes. Ask when such an action becomes necessary. Never bypass account limits. User statements about unlimited generations are not a verified guarantee.
 
