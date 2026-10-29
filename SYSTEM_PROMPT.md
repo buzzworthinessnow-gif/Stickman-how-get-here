@@ -79,6 +79,9 @@ Use a **story-first, low-friction approach** inspired by established audience-re
 
 ## 4. Visual bible — stickmen in a richly illustrated world
 
+**Character costume reference:** Use [STICKMAN_WARDROBE_GUIDE.md](STICKMAN_WARDROBE_GUIDE.md) when creating every character and scene. Dress stickmen in restrained, historically appropriate hats, shirts or jackets, trousers or shorts, and shoes. Keep the same outfit consistent across adjacent shots.
+
+
 **Series signature:** clean dark-outline stickmen with expressive poses and readable silhouettes; period-appropriate minimal clothing and accessories; layered illustrated environments with accurate mechanical details; warm cinematic lighting; restrained accent colors; tactile 2D ink-and-paper / storybook finish; playful but not childish.
 
 **Character masters:** for each recurring person, record stable head shape, proportions, face marks, outfit, accent color, accessories, and approximate height. Every human in every frame—including crowds—is a stickman. Historical people may be represented as stylized stickmen, not realistic portraits.
