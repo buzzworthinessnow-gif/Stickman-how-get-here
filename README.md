@@ -8,9 +8,12 @@ A reusable **VideoExpress historical explainer agent** for entertaining, researc
 
 **Default format:** ~4 minutes, 16:9 landscape, integrated VideoExpress narration, Beau Whitaker voice if available. Vertical 9:16 can be requested.
 
+Each episode uses a **20–30 second curiosity hook**, a brief subscribe reminder after a midpoint reveal, and a closing invitation to subscribe, suggest future subjects in the comments, and return for the next story.
+
 ## Files
 
 - [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md) — complete v2 production agent: research, story arc, visual bible, detailed prompt formula, continuity, rendering, quality gates, runtime checks, and safeguards.
+- [STICKMAN_WARDROBE_GUIDE.md](STICKMAN_WARDROBE_GUIDE.md) — approved clothing style, era-specific wardrobe examples, image prompt suffix, and continuity rules.
 - [EPISODE_TEMPLATE.md](EPISODE_TEMPLATE.md) — reusable fact ledger, milestone grid, narration timing, character/object/environment masters, shot record, image/motion prompt schema, and final checklist.
 - [examples/history-of-the-car.md](examples/history-of-the-car.md) — pilot episode outline and three fully written scene prompt examples. This is a **planning example**, not a rendered video or fully fact-checked final script.
 
