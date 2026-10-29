@@ -38,6 +38,20 @@
 
 Adjust these times after actual narration and clip generation. Do not treat table segments as fixed scene counts.
 
+## Pilot character wardrobe
+
+Use the [stickman wardrobe guide](../STICKMAN_WARDROBE_GUIDE.md). The recurring inventor has a round white cartoon face, slim black stickman limbs, a brown flat cap, cream rolled-sleeve shirt, brown vest, cuffed charcoal trousers, and brown work boots. Keep this wardrobe consistent across adjoining workshop scenes; adapt clothing deliberately when the story moves to a different historical period.
+
+## Audience engagement examples
+
+**First 20–30 seconds:** “Your car can warn you before you hit something. But once, the biggest challenge was making a carriage move without a horse. Steam? Electricity? Gasoline? The answer wasn't obvious. So how did we get here?” Start with a modern car, rewind to a horse-free carriage, then show competing technologies.
+
+**Midpoint reminder (after a reveal):** “Enjoying these surprising inventions? Subscribe for more stories about how everyday things evolved.”
+
+**Final invitation (after resolving the story):** “Subscribe for more origin stories, and tell us in the comments: what should we explore next? Until then—keep asking, how did we get here?”
+
+Time these lines with the narrator and keep the full episode between three and five minutes. These are script examples, not a rendered video.
+
 ## Three detailed image/motion prompt examples
 
 ### Shot 01 — The impossible comparison (modern hook)
