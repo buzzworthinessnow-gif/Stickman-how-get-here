@@ -28,8 +28,8 @@
 
 | Time | Narrative goal | Visual progression |
 |---|---|---|
-| 0:00–0:15 | Modern-car hook and rewind | Modern car → spinning wheels reverse into wooden carriage |
-| 0:15–0:50 | Why people wanted horse-free movement | Muddy road, horses, steam experimentation |
+| 0:00–0:10 | Modern-car hook and rewind | Modern car → spinning wheels reverse into wooden carriage |
+| 0:10–0:50 | Why people wanted horse-free movement | Muddy road, horses, steam experimentation |
 | 0:50–1:30 | Rival power sources and Benz | Steam vs electric vs gasoline; early motorwagen |
 | 1:30–2:00 | Bertha Benz and practical obstacles | Road trip, mechanical challenge, map route |
 | 2:00–2:45 | Affordability and production | Individual workshop → assembly line → more drivers |
@@ -44,13 +44,13 @@ Use the [stickman wardrobe guide](../STICKMAN_WARDROBE_GUIDE.md). The recurring 
 
 ## Audience engagement examples
 
-**First 20–30 seconds:** “Your car can warn you before you hit something. But once, the biggest challenge was making a carriage move without a horse. Steam? Electricity? Gasoline? The answer wasn't obvious. So how did we get here?” Start with a modern car, rewind to a horse-free carriage, then show competing technologies.
+**First 5–10 seconds:** “Today's cars can warn us of danger. The first challenge? Moving without a horse.” Start with a modern car, rewind to a horse-free carriage, then show competing technologies.
 
-**Midpoint reminder (after a reveal):** “Enjoying these surprising inventions? Subscribe for more stories about how everyday things evolved.”
+**Optional midpoint reminder (after a reveal, when runtime allows):** “Enjoying these surprising inventions? Subscribe for more stories about how everyday things evolved.”
 
 **Final invitation (after resolving the story):** “Subscribe for more origin stories, and tell us in the comments: what should we explore next? Until then—keep asking, how did we get here?”
 
-Time these lines with the narrator and keep the full episode between three and five minutes. These are script examples, not a rendered video.
+Time these lines with the narrator and use only the length needed for the complete origins-to-present story, with a five-minute maximum and no minimum. The four-minute map is an example, not a duration requirement. These are script examples, not a rendered video.
 
 ## Three detailed image/motion prompt examples
 
