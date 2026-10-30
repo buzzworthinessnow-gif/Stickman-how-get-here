@@ -1,6 +1,6 @@
 # Episode Production Template — How Did We Get Here?
 
-Copy this template for each topic. Fill in research before generating imagery. Target **3:00–5:00**, aiming near **4:00**.
+Copy this template for each topic. Fill in research before generating imagery. Choose the shortest complete origins-to-present story. Plan around **3–4 minutes when warranted**, with a **5:00 maximum and no minimum**. Never add filler.
 
 ## Brief
 
@@ -11,7 +11,9 @@ Copy this template for each topic. Fill in research before generating imagery. T
 - Causal spine: We went from ___ to ___ because ___.
 - Aspect ratio: 16:9 (default) / 9:16
 - Voice: Beau Whitaker (default, if available)
-- Runtime target: 4:00
+- Subject-driven runtime estimate (3–4 minutes only as a planning reference):
+- Runtime maximum: 5:00; no minimum
+- Why this length is needed to reach the present-day payoff:
 - Hook type (then-vs-now / failed attempt / misconception / consequence-first / high-stakes problem):
 - First 5-second pattern interrupt:
 - Hook's unanswered question and promised payoff:
@@ -45,24 +47,22 @@ Use only 5–8 meaningful milestones when the subject supports them; do not add 
 
 | Time | Purpose | Draft narration |
 |---|---|---|
-| 0:00–0:05 | Hook: surprising first visual or factual contrast | |
-| 0:05–0:15 | Hook: tension and unanswered question | |
-| 0:15–0:25 | Hook: credible tease and rewind | |
-| 0:25–0:55 | Original problem | |
-| 0:55–2:45 | Evolutionary chain, including 4–7 second midpoint subscribe reminder near 2:00 | |
-| 2:45–3:35 | Turning point / side effects | |
-| 3:35–3:48 | Present-day payoff: resolve the hook | |
-| 3:48–4:00 | Subscribe + specific future-topic comment invitation + signature close | |
+| 0:00–0:10 | Hook: immediate factual contrast, question, and rewind; approximately 5–10 seconds | |
+| 0:10–0:40 | Original problem | |
+| 0:40–2:40 | Evolutionary chain, including an optional 4–7 second midpoint subscribe reminder near 2:00 | |
+| 2:40–3:30 | Turning point / side effects | |
+| 3:30–3:50 | Present-day payoff: resolve the hook | |
+| 3:50–4:00 | Subscribe + specific future-topic comment invitation + signature close | |
 
-Count spoken words and estimate with the selected narrator's actual rate. Budget for pauses and transitions.
+This table is an optional four-minute example, not a required length. Scale it to the subject; combine minor milestones while retaining the modern payoff. Count words and estimate with the selected narrator's actual rate before TTS. Budget pauses and transitions; preserve the full narration once generated.
 
 ## Engagement design
 
-**Opening (20–30 seconds):** Write the exact first line, the immediate visual surprise, the unanswered question, and the payoff the episode will deliver. No generic logo-first introduction or invented sensational claim.
+**Opening (approximately 5–10 seconds):** Write the exact first line, the immediate visual surprise, the unanswered question, and the payoff the episode will deliver. No generic logo-first introduction or invented sensational claim.
 
-**Midpoint (once, 45–60% through):** Insert after a mini-payoff. Aim for 4–7 seconds. Suggested: “If you love discovering how everyday things evolved, subscribe for more journeys like this.” Adapt to the topic and voice.
+**Midpoint (optional, at most once, 45–60% through):** Insert after a mini-payoff. Aim for 4–7 seconds. Suggested: “If you love discovering how everyday things evolved, subscribe for more journeys like this.” Adapt to the topic and voice; omit for short episodes when it disrupts the flow.
 
-**Ending (once):** Resolve the opening question, then use 8–15 seconds to invite subscribing, ask which object/subject viewers want covered next, and finish with “Until then—keep asking, how did we get here?” Do not promise an unverified posting schedule.
+**Ending (once):** Resolve the opening question, then use up to 8–15 seconds, shorter for brief episodes, to invite subscribing, ask which object/subject viewers want covered next, and finish with “Until then—keep asking, how did we get here?” Do not promise an unverified posting schedule.
 
 **After publishing (optional):** Track first-30-second retention, midpoint audience drop-off, average view duration, subscriber conversion, and meaningful comments. There is no guaranteed CTA formula; improve through measurement.
 
@@ -140,9 +140,9 @@ Follow [VOICEOVER_SCRIPT_POLICY.md](VOICEOVER_SCRIPT_POLICY.md) and [THUMBNAIL_G
 - [ ] 4–6 distinct 16:9 thumbnail concepts prepared; separately generated when authorized and available
 
 - [ ] Fact ledger reviewed and critical claims sourced
-- [ ] First 20–30 seconds deliver an honest creative hook with a compelling first five seconds
+- [ ] First 5–10 seconds deliver an honest creative hook with a compelling first five seconds
 - [ ] Hook resolved before final call to action
-- [ ] One brief subscribe reminder at a natural midpoint reveal
+- [ ] Midpoint reminder is brief and naturally placed, or omitted when unsuitable for a short episode
 - [ ] Ending asks viewers to subscribe and comment a specific future-topic suggestion, then closes with a signature line
 - [ ] Each historical jump is motivated and labeled
 - [ ] Stickman style and recurring masters consistent
@@ -151,7 +151,8 @@ Follow [VOICEOVER_SCRIPT_POLICY.md](VOICEOVER_SCRIPT_POLICY.md) and [THUMBNAIL_G
 - [ ] No duplicated actions or awkward resets
 - [ ] Labels and diagrams readable
 - [ ] Aspect ratio confirmed
-- [ ] **Measured runtime between 3:00 and 5:00**
+- [ ] **Measured runtime no longer than 5:00; no minimum and no filler**
+- [ ] Complete causal progression from origins to present-day payoff; full generated narration preserved
 - [ ] Saved/exported video confirmed in correct project
 
 ## Delivery
