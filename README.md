@@ -1,16 +1,18 @@
 # Stickman — How Did We Get Here?
 
-A reusable **VideoExpress historical explainer agent** for entertaining, researched, **3–5 minute** videos that trace an object, invention, idea, or institution from its origins to today.
+A reusable **VideoExpress historical explainer agent** for entertaining, researched, **flexible-length (up to 5 minutes)** videos that trace an object, invention, idea, or institution from its origins to today.
 
 ## The v2 style
 
 **Expressive 2D stickmen in richly detailed historical worlds.** Every human is a stickman, while vehicles, machinery, architecture, props, and environments are carefully illustrated and appropriate to the era. Stories prioritize cause and effect, verified surprises, failures, and pivotal turning points—not arbitrary date lists.
 
-**Default format:** ~4 minutes, 16:9 landscape, integrated VideoExpress narration, Beau Whitaker voice if available. Vertical 9:16 can be requested.
+**Default format:** shortest complete story, typically 3–4 minutes when warranted, maximum 5 minutes with no minimum; 16:9 landscape, integrated VideoExpress narration, Beau Whitaker voice if available. Vertical 9:16 can be requested.
 
-Each episode uses a **20–30 second curiosity hook**, a brief subscribe reminder after a midpoint reveal, and a closing invitation to subscribe, suggest future subjects in the comments, and return for the next story.
+Each episode uses a **5–10 second curiosity hook**, an optional brief subscribe reminder after a midpoint reveal when the episode has room, and a closing invitation to subscribe, suggest future subjects in the comments, and return for the next story.
 
 **Reusable voiceover scripts:** Every episode preserves its exact narration and voice/take metadata before generating audio, enabling repairs and alternate voices. **Cover images:** Every episode gets 4–6 suggested 16:9 thumbnail concepts and, when authorized and available, separately generated candidates.
+
+Short subjects can be as brief as needed. Always carry the causal journey through to the present day. Never add filler to reach a target. Plan length before narration generation and preserve the full completed narration.
 
 ## Files
 
